@@ -1,0 +1,64 @@
+Q1. DBA stands for
+
+Database administrator
+
+Q2. Structured Query Language (SQL) is used to (check all that apply)
+
+Delete data
+Insert data
+Create a table
+
+Q3. Which statement is the right syntax to make a new database using command line?
+
+CREATE DATABASE people;
+
+Q4. “INSERT INTO” is the keyword used to insert data into tables.
+
+True
+
+Q5. Which keyword is used to add conditions to your query?
+
+WHERE
+
+Q6. Which command is used to retrieve all records from the table?
+
+SELECT * FROM Users
+
+Q7. Which keyword will cause the results of the query to be displayed in sorted order?
+
+ORDER BY
+
+Q8. The LIMIT clause helps to narrow down the scope of the query.
+
+True
+
+Q9.A [_____] column allocates a string with a variable amount of space depending on the data length that is actually stored.
+
+varchar
+
+Q10. A column of type CHAR cannot be indexed.
+
+False
+
+Q11. Images, PDF, movies cannot be stored in a database.
+
+False
+
+Q12. Column of type TIMESTAMP stores the number of seconds from January 1, [_____] in the column.
+
+1970
+
+Q13. A primary key can be set to null.
+
+False
+Q14. An UNSIGNED int can be a negative number.
+
+False
+
+Q15. Primary keys are used to distinguish rows within in a table. [_____] keys are used to reference the primary key from a different table.
+
+foreign
+
+
+
+-- LOK SETH
